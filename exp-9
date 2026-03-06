@@ -1,0 +1,3 @@
+x <- c(5, 10, 15, 20, 25, 30)
+IQR_value <- IQR(x)
+IQR_value
